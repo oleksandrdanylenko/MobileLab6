@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="home">Home</string>
+  <string name="search">Search</string>
+  <string name="library">Library</string>
+  <string name="preferences">Preferences</string>
+
+  <string name="add_album">Add album</string>
+  <string name="add_artist">Add artist</string>
+  <string name="add_genre">Add genre</string>
+  <string name="add_playlist">Add playlist</string>
+  <string name="add_song">Add song</string>
+  <string name="logout">Logout</string>
+
+</resources>
